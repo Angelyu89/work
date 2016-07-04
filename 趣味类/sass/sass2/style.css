@@ -1,0 +1,10 @@
+.oDiv {
+  width: 100px;
+  height: 100px;
+  background-color: #0dacee;
+}
+  .oDiv .oDiv2 {
+    width: 10px;
+    height: 10px;
+  background-color: #70E887;
+  }
